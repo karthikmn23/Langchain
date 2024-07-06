@@ -1,0 +1,12 @@
+bs4
+chormadb
+wikipedia
+arxiv
+langchainhub
+langchain-groq
+faiss-cpu
+groq
+cassio
+beautifulsoup4
+sse_starlette
+pypdf
